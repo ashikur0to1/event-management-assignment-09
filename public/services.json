@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Weddings",
+      "image": "https://i.ibb.co/PrhCpNT/weddings.jpg",
+      "price": "$5,000 - $20,000",
+      "description": "Expert wedding planning services to make your special day unforgettable."
+    },
+    {
+      "id": 2,
+      "name": "Birthday Parties",
+      "image": "https://i.ibb.co/fvk2cyg/birthday-party.jpg",
+      "price": "$500 - $2,000",
+      "description": "Surprise your loved ones on their birthday with beautiful decorations with the most popular party ideas and themes."
+    },
+    {
+      "id": 3,
+      "name": "Anniversaries",
+      "image": "https://i.ibb.co/SdXVD2R/anniversaries.jpg",
+      "price": "$1,000 - $5,000",
+      "description": "Create romantic and memorable atmospheres for milestone anniversaries."
+    },
+    {
+      "id": 4,
+      "name": "Engagement Parties",
+      "image": "https://i.ibb.co/M12DjR8/engagement-parties.jpg",
+      "price": "$800 - $3,000",
+      "description": "Chic and sophisticated engagement parties to announce your love story."
+    },
+    {
+      "id": 5,
+      "name": "Retirement Parties",
+      "image": "https://i.ibb.co/84zsKyw/retirement-parties.jpg",
+      "price": "$600 - $2,500",
+      "description": "Farewell to working years with memorable retirement parties. We ensure to decorate the place as per theme of the farewell."
+    },
+    {
+      "id": 6,
+      "name": "Baby Showers",
+      "image": "https://i.ibb.co/5M5D5k6/baby-shower.jpg",
+      "price": "$400 - $1,500",
+      "description": "Charming baby showers to welcome the upcoming bundle of joy. We ensure to increase your joy thousands of times."
+    }
+  ]
